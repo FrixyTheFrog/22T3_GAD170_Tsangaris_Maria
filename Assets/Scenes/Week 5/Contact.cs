@@ -17,6 +17,11 @@ namespace MariaTsangaris
         [SerializeField] private string address;
         [SerializeField] private string email;
 
+        //public void Start()
+        //{
+        //    chosenHero = Hero.BarryGee;
+        //}
+
         public void Initialize()
         {
             // We want to set up all 3 characters
